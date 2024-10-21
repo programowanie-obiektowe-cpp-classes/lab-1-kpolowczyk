@@ -30,15 +30,14 @@ class Wektor2D
         x=xx;
         y=yy;
         //std::cout<<"Utworzono wektor ["<<x<<";"<<y<<"]"<<std::endl;
-        float norm;
-        norm=sqrt(x*x+y*y);
         //std::cout<<"Norma wektora = "<<norm<<std::endl;
 
     }
+    /*
     ~Wektor2D(){
         //std::cout<<"Usunieto wektor ["<<x<<";"<<y<<"]"<<std::endl;
     }
-
+    */
     
 };
 

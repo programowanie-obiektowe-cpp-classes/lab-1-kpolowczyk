@@ -1,5 +1,6 @@
 class Wektor2D
-{
+{   
+    public:
     // Tutaj napisz implementacje klasy Wektor2D
     public:
     void setX(float gx){
@@ -34,18 +35,18 @@ class Wektor2D
         std::cout<<"Usunieto wektor ["<<x<<";"<<y<<"]"<<std::endl;
     }
 
-    
+    private:
     float x;
     float y;
 };
 
 Wektor2D operator+(Wektor2D v1, Wektor2D v2) {
-    return Wektor2D(v1.x + v2.x, v1.y + v2.y);
+    return Wektor2D(v1.getX() + v2.getX(), v1.getY() + v2.getY());
 }
 
 double operator*(Wektor2D v1, Wektor2D v2) {
     double prod;
-    prod=v1.x*v2.x+v1.y*v2.y;
+    prod=v1.getX()*v2.getX()+v1.getY()*v2.getY();
     return prod;
 }
 

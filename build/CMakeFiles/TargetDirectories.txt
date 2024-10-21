@@ -1,3 +1,0 @@
-C:/Users/polow/github-classroom/programowanie-obiektowe-cpp-classes/lab-1-kpolowczyk/build/CMakeFiles/zal.dir
-C:/Users/polow/github-classroom/programowanie-obiektowe-cpp-classes/lab-1-kpolowczyk/build/CMakeFiles/edit_cache.dir
-C:/Users/polow/github-classroom/programowanie-obiektowe-cpp-classes/lab-1-kpolowczyk/build/CMakeFiles/rebuild_cache.dir

@@ -1,8 +1,0 @@
-[
-{
-  "directory": "C:/Users/polow/github-classroom/programowanie-obiektowe-cpp-classes/lab-1-kpolowczyk/build",
-  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/zal.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\zal.dir\\test.cpp.obj -c C:\\Users\\polow\\github-classroom\\programowanie-obiektowe-cpp-classes\\lab-1-kpolowczyk\\test.cpp",
-  "file": "C:/Users/polow/github-classroom/programowanie-obiektowe-cpp-classes/lab-1-kpolowczyk/test.cpp",
-  "output": "CMakeFiles/zal.dir/test.cpp.obj"
-}
-]
